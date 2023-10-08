@@ -1,10 +1,12 @@
 # PaD-BackEnd
 BackEnd del sistema de recuperacion de informacion Politica al Dia
 
-## Contexto del proyecto
+## Para el desarrollo del proyecto
 Para la realizacion del proyecto estaremos desarrollando una api rest con django y django rest framework haciendo uso de una base de datos noSQL (MongoDB) para el almacenamiento de archivos. 
 
-## Carpeta raiz del proyecto
+Es necesario clonar el repositorio ya sea con Git o con GitHub Desktop y abrir el directorio con su editor de texto favorito.
+
+## Carpeta raiz del proyecto django
 La carpeta raiz del proyecto corresponde a ```Politica Al Dia``` en esta se encuentran los archivos de configuracion relacionados al proyecto django. Algo importante a notar es el archivo Settings donde se encuentra las lineas de configuracion para la base de datos. 
 
 ## Creación del Virtualenv
