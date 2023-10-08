@@ -1,3 +1,5 @@
-/PoliticaAlDia/__pycache__
-/noticias/__pycache__
-/noticias/migrations
+PoliticaAlDia/__pycache__
+noticias/__pycache__
+noticias/migrations
+.vscode
+venv
