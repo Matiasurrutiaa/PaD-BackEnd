@@ -81,6 +81,7 @@ DATABASES = {
         'NAME': 'PaD',
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
+                                #Usuario:Contraseña -> En este caso son las credenciales de mi mongoDB Atlas, comprobar si funciona si no trabajar con una propia o una local.
             'host': 'mongodb+srv://PaDUser:ToSnuav7QgP2QvRX@pad.ftpm1zi.mongodb.net/?retryWrites=true&w=majority',
             'name':'PaD'
         }
