@@ -66,4 +66,4 @@ Se le comunicara por la misma terminal la direccion local para ingresar.
 URLs iniciales, por lo que una vez inciado y corriendo el proyecto es necesario añadir a la url esta direccion para acceder a la api.
 
 ## Anexos
-Hay total libertad de experimentar y probar cosas mientras incorporen las funcionalidades requeridas para el proyecto asi que no se limiten unicamente a las tecnologias y librerias escogidas.
+Hay total libertad de experimentar y probar cosas mientras incorporen las funcionalidades requeridas para el proyecto asi que no es necesario que se limiten unicamente a las tecnologias y librerias escogidas.
