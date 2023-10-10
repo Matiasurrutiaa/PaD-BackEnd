@@ -2,7 +2,7 @@
 BackEnd del sistema de recuperacion de informacion Politica al Dia
 
 ## Para el desarrollo del proyecto
-Para la realizacion del proyecto estaremos desarrollando una api rest con django y django rest framework haciendo uso de una base de datos noSQL (MongoDB) para el almacenamiento de archivos. 
+Para la realizacion del proyecto estaremos desarrollando una api rest con django y django rest framework haciendo uso de una base de datos noSQL (MongoDB) para el almacenamiento de archivos en caso de que no resulte con archivos locales. 
 
 Es necesario clonar el repositorio ya sea con Git o con GitHub Desktop y abrir el directorio con su editor de texto favorito.
 
