@@ -75,6 +75,19 @@ WSGI_APPLICATION = 'PoliticaAlDia.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+#Crea una base de datos en local de sqlite, idealmente no trabajar con ella, unicamente para poder correr el proyecto.
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
+
+
+#Para futuras pruebas. O si se desea configurarlo para el funcionamiento local en caso de ser necesario.
+
+"""
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
@@ -87,6 +100,7 @@ DATABASES = {
         }
     }
 }
+"""
 
 
 # Password validation

@@ -3,3 +3,4 @@ noticias/__pycache__
 noticias/migrations
 .vscode
 venv
+db.sqlite3
