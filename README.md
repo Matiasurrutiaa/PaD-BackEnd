@@ -43,6 +43,8 @@ pip install -r requirements.txt
 Con esto ya tendriamos todo lo necesario para trabajar en el proyecto.
 
 ## Realizar las migraciones y correr el proyecto.
+No es necesaria realizar las migraciones para que corra el proyecto, pero cuando se trabaja con base de datos si es necesaria.
+En nuestro caso al intentar trabajar con archivos locales no es necesario pero en casos a futuro si llegasemos a trabajar con base de datos nosql si sera requerido.
 Para realizar las migraciones en una consola o terminal ingresar el siguiente comando:
 ```
 python manage.py makemigrations
